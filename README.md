@@ -1,1 +1,1 @@
-This is nikhils first project on learning git
+This is my first project on learning git
